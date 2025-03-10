@@ -1,6 +1,6 @@
 FROM tomcat:9.0.82-jdk11
 
-MAINTAINER Ashok <ashok@oracle.com>
+MAINTAINER Rajesh <rajesh@oracle.com>
 
 EXPOSE 8080
 
